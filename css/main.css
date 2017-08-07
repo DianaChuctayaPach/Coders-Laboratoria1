@@ -1,0 +1,38 @@
+body{
+    background-image: image("img/fondo.jpg");
+}
+h1{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 85px;
+    text-shadow: 0 0 3px purple;
+
+}
+
+#select {
+  
+  margin-top: 20px;
+  margin-bottom: 10px;
+  width: 250px;
+  height: 40px;
+  font-family: Arial;
+  font-size: 15px;
+  background-color: transparent;
+  border: 2px solid wheat;
+  color: orange;
+  border-radius: 10px;
+}
+img{
+    border-radius: 10px;
+    border: 2px solid #ddd;
+    padding:10px;
+
+}
+.image{
+    width: 200px;
+    height: 200px;
+    margin: 18px;
+}
+
+
+
